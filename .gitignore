@@ -1,0 +1,4 @@
+.env
+allotment_results.svg
+allotment_results.csv
+__pycache__/
