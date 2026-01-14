@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 ---
 
-### **Step 3: Create and rename the `.env.example` file or edit the details in config file**
+### **Step 3: Create or rename the `.env.example` file or edit the details in config file**
 
 <img width="887" height="68" alt="image" src="https://github.com/user-attachments/assets/37cf2650-3866-4d7f-b9c5-13fe34382b6e" />
 
