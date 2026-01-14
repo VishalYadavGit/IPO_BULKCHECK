@@ -8,5 +8,5 @@ KFINTECH = "https://ipostatus.kfintech.com/"
 # coming soon 
 Linkintime = "https://in.mpms.mufg.com/Initial_Offer/public-issues.html"
 
-IPO_NAME = "MEESHO"
+IPO_NAME = os.environ.get('IPO_NAME','')
 PAN_NUMBER = os.environ.get("PAN_NUMBERS","").split(",")
